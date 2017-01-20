@@ -1,13 +1,13 @@
 # sample_website
 A sample website for **Learn Enough HTML to Be Dangerous**
 
-This project was created to be a learning guide for HTML, or HyperText Markup Language, by following the online tutorial at **Learn Enough HTML to Be Dangerous**. There are several different valuable tutorials for learning basic Command-Line, Text-Editor, Git & HTML skills at the **Learn Enough** website. There's even a **Learn Enough CSS to Be Dangerous** tutorial currently under development, which will show how to implement & manipulate Cascading Style Sheets (CSS) for styling HTML documents. While there are many different "learning HTML" tutorials on the web, **Learn Enough HTML to Be Dangerous** stands out, because it only covers the most important features in building a webpage using the **HTML5 standard** from **W3C** & utilizing Git to deploy a live webpage, by using **GH-Pages on GitHub**.
+This project was created to be a learning guide for HTML, or HyperText Markup Language, by following the online tutorial at [**Learn Enough HTML to Be Dangerous**](https://learnenough.com/html-tutorial). There are several different valuable tutorials for learning basic Command-Line, Text-Editor, Git & HTML skills at the [**Learn Enough**](https://learnenough.com) website. There's even a **Learn Enough CSS to Be Dangerous** tutorial currently under development, which will show how to implement & manipulate Cascading Style Sheets (CSS) for styling HTML documents. While there are many different "learning HTML" tutorials on the web, [**Learn Enough HTML to Be Dangerous**](https://learnenough.com/html-tutorial) stands out, because it only covers the most important features in building a webpage using the [**HTML5 standard**](https://www.w3.org/TR/html5) from [**W3C**](http://www.w3.org) & utilizing Git to deploy a live webpage, by using [**GitHub Pages**](https://pages.github.com).
 
-For more information on this tutorial, visit the **Learn Enough to Be Dangerous** website. 
+For more information on this tutorial, visit the [**Learn Enough to Be Dangerous**](https://learnenough.com) website. 
 
-For more information on different projects that I'm working on, visit **TheRealChrisEdwards** public repository on GitHub. I also have a blog under development, called **TRCE** on **WordPress**, documenting my journey learning web development.
+For more information on different projects that I'm working on, visit **TheRealChrisEdwards** public repository on GitHub. I also have a blog under development, called **TRCE** on [**WordPress**](http://www.wordpress.org), documenting my journey learning web development.
 
-If you'd like more background information on any of these sites, or technologies used, visit **Wikipedia** to find out more!
+If you'd like more background information on any of these sites, or technologies used, visit [**Wikipedia**](http://www.wikipedia.org) to find out more!
 
 Helpful Resources:
 
