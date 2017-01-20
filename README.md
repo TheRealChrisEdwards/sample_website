@@ -42,7 +42,7 @@ Other HTML Resources:
   a. [HTML on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)  
   b. [CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)  
   c. [Resposive Webpage Design on MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Responsive)  
-  d. [Web Technologies](https://developer.mozilla.org/en-US/docs/Web) \ 
+  d. [Web Technologies](https://developer.mozilla.org/en-US/docs/Web)  
   e. [Web Apps](https://developer.mozilla.org/en-US/Apps)  
 5. [HTML5 Rocks!](https://www.html5rocks.com/en/)
 6. [HTML Doctor](http://html5doctor.com/)
