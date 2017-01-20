@@ -5,7 +5,7 @@ This project was created to be a learning guide for HTML, or HyperText Markup La
 
 For more information on this tutorial, visit the [**Learn Enough to Be Dangerous**](https://learnenough.com) website. 
 
-For more information on different projects that I'm working on, visit [**TheRealChrisEdwards**] public repository on GitHub. I also have a blog under development, called [**TRCE**](https://therealchrisedwards.tech.blog/) on [**WordPress**](https://wordpress.com), documenting my journey learning web development. You can also email me [**@TheRealChrisEdwards**](mailto:TheRealChrisEdwards@outlook.com) if you have any questions concerning what I'm talking about.
+For more information on different projects that I'm working on, visit [**TheRealChrisEdwards**](https://github.com/TheRealChrisEdwards) public repository on GitHub. I also have a blog under development, called [**TRCE**](https://therealchrisedwards.tech.blog/) on [**WordPress**](https://wordpress.com), documenting my journey learning web development. You can also email me [**@TheRealChrisEdwards**](mailto:TheRealChrisEdwards@outlook.com) if you have any questions concerning what I'm talking about.
 
 If you'd like more background information on any of these sites, or technologies used, visit [**Wikipedia**](https://www.wikipedia.org) to find out more!
 
