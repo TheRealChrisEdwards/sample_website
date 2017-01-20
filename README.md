@@ -5,7 +5,7 @@ This project was created to be a learning guide for HTML, or HyperText Markup La
 
 For more information on this tutorial, visit the [**Learn Enough to Be Dangerous**](https://learnenough.com) website. 
 
-For more information on different projects that I'm working on, visit [**TheRealChrisEdwards**] public repository on GitHub. I also have a blog under development, called [**TRCE**](https://therealchrisedwards.tech.blog/) on [**WordPress**](https://wordpress.com), documenting my journey learning web development.
+For more information on different projects that I'm working on, visit [**TheRealChrisEdwards**] public repository on GitHub. I also have a blog under development, called [**TRCE**](https://therealchrisedwards.tech.blog/) on [**WordPress**](https://wordpress.com), documenting my journey learning web development. You can also email me [**@TheRealChrisEdwards**](mailto:TheRealChrisEdwards@outlook.com) if you have any questions concerning what I'm talking about.
 
 If you'd like more background information on any of these sites, or technologies used, visit [**Wikipedia**](https://www.wikipedia.org) to find out more!
 
@@ -25,8 +25,8 @@ If you'd like more background information on any of these sites, or technologies
 8. [Conquering the Command-Line: Unix & Linux Commands for Developers by Mark Bates](http://conqueringthecommandline.com/book)
 9. [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 10. [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
-11. [Wordpress.org](https://wordpress.com)
-12. [My official blog TRCE, TheRealChrisEdwards](https://therealchrisedwards.tech.blog/)
+11. [Wordpress.com](https://wordpress.com)
+12. [My official TRCE Blog, TheRealChrisEdwards](https://therealchrisedwards.tech.blog/)
 13. [Wikipedia](https://www.wikipedia.org)
 
 Other HTML Resources:
