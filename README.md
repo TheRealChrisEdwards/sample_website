@@ -13,11 +13,11 @@ If you'd like more background information on any of these sites, or technologies
 ## Helpful Resources:
 
 1. [Learn Enough HTML to Be Dangerous](https://learnenough.com/html-tutorial)
-2. [Learn Enough to Be Dangerous](https://learnenough.com/)\
-  a. [Learn Enough Command-Line to Be Dangerous](https://learnenough.com/command-line-tutorial)\
-  b. [Learn Enough Text-Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)\
-  c. [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)\
-  d. [Learn Enough CSS to Be Dangerous (&ast;Coming Soon)](https://www.learnenough.com/css-and-layout-tutorial)\
+2. [Learn Enough to Be Dangerous](https://learnenough.com/)  
+  a. [Learn Enough Command-Line to Be Dangerous](https://learnenough.com/command-line-tutorial)  
+  b. [Learn Enough Text-Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)  
+  c. [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)  
+  d. [Learn Enough CSS to Be Dangerous (&ast;Coming Soon)](https://www.learnenough.com/css-and-layout-tutorial)  
 3. [GitHub](https://github.com)
 4. [GitHub Help](https://help.github.com)
 5. [Git Documentation](https://git-scm.com/doc)
@@ -31,18 +31,18 @@ If you'd like more background information on any of these sites, or technologies
 
 Other HTML Resources:
 
-1. [W3C (World-Wide-Web Consortium)](http://www.w3.org)\
-  a. [W3C HTML5 Standard](https://www.w3.org/TR/html5)\
-  b. [W3C Web Standards](https://www.w3.org/standards/)\
-  c. [W3C HTML Validator Tool: Unicorn](http://validator.w3.org/unicorn/)\
+1. [W3C (World-Wide-Web Consortium)](http://www.w3.org)  
+  a. [W3C HTML5 Standard](https://www.w3.org/TR/html5)  
+  b. [W3C Web Standards](https://www.w3.org/standards/)  
+  c. [W3C HTML Validator Tool: Unicorn](http://validator.w3.org/unicorn/)  
 2. [WhatWG](https://whatwg.org/)
 2. [The HTML Living Standard on WhatWG](https://html.spec.whatwg.org/multipage/)
 3. [WebPlatform.org](http://www.webplatform.org/)
-4. [Mozilla Developer Network](https://developer.mozilla.org/en-US/) *MDN is highly recommended for all information regarding web technologies*\
-  a. [HTML on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)\
-  b. [CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)\
-  c. [Resposive Webpage Design on MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Responsive)\
-  d. [Web Technologies](https://developer.mozilla.org/en-US/docs/Web)\
-  e. [Web Apps](https://developer.mozilla.org/en-US/Apps)\
+4. [Mozilla Developer Network](https://developer.mozilla.org/en-US/) *MDN is highly recommended for all information regarding web technologies*  
+  a. [HTML on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+  b. [CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+  c. [Resposive Webpage Design on MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Responsive)  
+  d. [Web Technologies](https://developer.mozilla.org/en-US/docs/Web) \ 
+  e. [Web Apps](https://developer.mozilla.org/en-US/Apps)  
 5. [HTML5 Rocks!](https://www.html5rocks.com/en/)
 6. [HTML Doctor](http://html5doctor.com/)
