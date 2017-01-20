@@ -22,7 +22,7 @@ If you'd like more background information on any of these sites, or technologies
 4. [GitHub Help](https://help.github.com)
 5. [Git Documentation](https://git-scm.com/doc)
 6. [GH-Pages (GitHub's free web-hosting service!)](https://pages.github.com)
-8. [Conquering the Command-Line by Michael Hartl](http://conqueringthecommandline.com/book)
+8. [Conquering the Command-Line: Unix & Linux Commands for Developers by Mark Bates](http://conqueringthecommandline.com/book)
 9. [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 10. [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
 11. [Wordpress.org](https://wordpress.com)
